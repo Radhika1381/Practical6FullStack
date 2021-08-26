@@ -1,0 +1,31 @@
+
+body{
+    background-color: grey;
+}
+h1{
+ color: white;
+ text-align: center;
+ width: 100%;
+}
+h4{
+    text-align: center;
+
+}
+container{
+    width:20%;
+}
+div{
+    padding:10px;
+    width:20%;
+    background-color: white;
+    margin: 80px 10px;
+    border-radius: 4%;
+    text-align: justify;
+}
+img{
+    height:200px;
+    width:250px;
+    padding: 0px;
+    margin:20px;
+    border-radius:4%;
+}
