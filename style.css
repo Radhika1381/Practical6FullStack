@@ -13,16 +13,7 @@ h4{
 }
 container{
    margin: 20px 4px;
-   width:fit-content;
-}
-div{
-    padding:5px 10px 5px;
-    width:20%;
-    background-color: white;
-    margin: 80px 15px 20px 20px;
-    border-radius: 4%;
-    text-align: justify;
-    float:left;
+   width:100%;
 }
 img{
     width: 100%;
@@ -36,7 +27,6 @@ img{
     background-color: #fff;
     padding: 15px;
     border-radius: 8px;
-    box-shadow: 0 5px 5px rgba(0, 0, 0, 0.15);
     }
     a{
         display: block;
